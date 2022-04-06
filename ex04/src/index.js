@@ -13,4 +13,4 @@ function myFunction(myObj) {
 
 console.log(myFunction(player));
 // Only change code above this line
-module.exports = { player, myFunction }
+module.exports = { player, myFunction };
