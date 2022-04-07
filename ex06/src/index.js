@@ -14,4 +14,4 @@ function myFunction(arg1, arg2) {
 // End of function
 myFunction("roar", "roar-roar");
 console.log(lion);
-module.exports = myFunction();
+module.exports = myFunction;
